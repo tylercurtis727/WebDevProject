@@ -1,0 +1,67 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: ivory;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 25px;
+    background-color: white;
+}
+li{
+    font-weight:normal
+}
+
+.bold{
+    font-weight:bold
+}
+
+.new-color {
+    color: darkmagenta
+}
+
+.new-font-family{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.underlined{
+    text-decoration-line: underline;
+}
+
+.new-size{
+    font-size:x-large
+}
+
+.common{
+    background-color: pink;
+    border: 2px solid ivory;
+    position:absolute;
+}
+.menu{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:100px; 
+}
+
+.orderlist{
+    top:114px;
+    left:5px;
+    width: 745px;
+    bottom: 150px
+}
+
+.picture{
+    top:114px;
+    right: 375px;
+    width: 375px;
+    bottom:180px;
+}
+
+h1{
+    text-align: left;
+}
+
+.video{
+    margin-top: 1000px;
+}
